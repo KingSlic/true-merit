@@ -138,6 +138,21 @@ Planned:
 
 ---
 
+## Documentation
+
+Project documentation can be found in:
+
+docs/
+
+Key documents:
+
+- System Overview
+- Entity Relationships
+- Concepts CRUD Flow
+- Request Lifecycle
+
+---
+
 ## Project Philosophy
 
 True Merit is built around capability rather than completion.
