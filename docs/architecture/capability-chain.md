@@ -25,9 +25,9 @@ Concept
 ## Key Principles
 
 - Authority lives in the Evidence
-- Evidence records what happened
-- Rubrics explain what it means
-- Evaluations preserver applied judgments
+- Evidence records reality
+- Rubrics define standards
+- Evaluations apply standards to reality
 - Mastery accumulates Evaluations, not Evidence
 - Standing contextualizes Mastery externally
 - Observations are historical
