@@ -50,13 +50,32 @@ Relationships:
 - Produced by an Attempt
 - Evaluated by a Rubric
 
-## Rubric
+## Rubrics
 
-Defines evaluation criteria.
+Own interpretation criteria.
+
+Are versioned.
+
+Define capability standards.
+
+May be reused across many Evaluations and Evidence records.
 
 Relationships:
 - Evaluates Evidence
 - Updates Mastery State
+
+## Evaluation
+
+Owns judgment.
+
+Evaluatino belongs to:
+- one Evidence
+- one Rubric
+
+Evaluations are immutable.
+
+New judgments create new Evaluation records rather than modifying old ones.
+
 
 ## Mastery State
 
