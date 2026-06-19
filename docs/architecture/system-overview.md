@@ -23,6 +23,7 @@ A Mastery State represents the learner's current level of demonstrated capabilit
 ### Standing
 Standing is the broader learner status produced by combining mastery, evidence, and performance history across multiple Concepts.
 
+
 ## Relationship Between Entities
 
 A Concept can have many Tasks.
@@ -38,3 +39,21 @@ Evidence is evaluated against a Rubric.
 Rubric results update the learner's Mastery State.
 
 Mastery States contribute to the learner's overall Standing.
+
+
+## Ownership Chain
+
+Attempt
+→ performance
+
+Evidence
+→ reality
+
+Evaluation
+→ judgment
+
+Mastery
+→ pattern
+
+Standing
+→ context
